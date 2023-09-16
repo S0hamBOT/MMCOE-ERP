@@ -1,5 +1,4 @@
 # MMCOE-ERP
-&lt;/>
 Certainly! Developing an ERP (Enterprise Resource Planning) project for MMCOE (Marathwada Mitra Mandal's College of Engineering) using Python and the Tkinter library is a commendable endeavor. Here's the description of project:
 
 *Title:* MMCOE College ERP System with Tkinter
