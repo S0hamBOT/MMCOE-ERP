@@ -4,7 +4,7 @@ from tkinter import messagebox
 from tkdocviewer import *
 
 root=Tk()
-root.title("Krsna❤️Softwares")
+root.title("Hare Krsna")
 icon=PhotoImage(file="iconphoto.png")
 root.iconphoto(False,icon)
 root.state("zoomed")
@@ -116,7 +116,7 @@ submit_btn.place(x=730,y=480)
 quit_btn=Button(frame1,text="Quit",relief=RAISED,command=quit,padx=5,pady=5)
 quit_btn.place(x=735,y=680)
 
-label4 = Label(frame1,text = "Copyright©️2023 Krsna \n All Rights Reserved",bg="white")
+label4 = Label(frame1,text = "Copyright©️2023 Soham Jadhav \n All Rights Reserved",bg="white")
 label4.place(x=690,y=750)
 
 #CODE FOR 1st PAGE ENDS
